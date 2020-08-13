@@ -40,7 +40,6 @@ fn init(url: Url, orders: &mut impl Orders<Msg>) -> Model {
     }
 }
 
-// Define default styles like Bulma does it. 
 fn init_styles() {
     load_app_themes(&[default_breakpoint_theme, default_scale_theme]);
 

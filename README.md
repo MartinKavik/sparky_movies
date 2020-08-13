@@ -1,3 +1,14 @@
+# Sparky Movies
+
+- Only Rust.
+- [Seed](https://seed-rs.org/) + [Style](https://seed-style-hooks.netlify.app/style_home).
+- CSS heavily inspired by [Bulma](https://bulma.io/).
+- WIP.
+
+---
+
+Original Quickstart's README:
+
 # Seed Quickstart
 
 > Basic Rust-only template for your new Seed app.
